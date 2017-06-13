@@ -1,6 +1,6 @@
 # manjaro files locations
 
-/home/nathan/.i3/config
+~/.i3/config
 
 /etc/i3blocks.conf
 
